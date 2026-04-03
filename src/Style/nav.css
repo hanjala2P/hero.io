@@ -1,0 +1,37 @@
+.bg-gradient {
+  background: linear-gradient(-75deg, #632EE3, #9F62F2);
+  border: none ;
+  color: white ;
+}
+
+.btn-contribute:hover {
+  opacity: 0.9;
+}
+.text-gradient {
+  background: linear-gradient(-75deg, #632EE3, #9F62F2);
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  background-clip: text;
+  display: inline-block; 
+ 
+}
+a.active {
+  position: relative; 
+  text-decoration: none;
+  background: linear-gradient(-75deg, #632EE3, #9F62F2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: bold; 
+}
+
+a.active::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -5px; 
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(-75deg, #632EE3, #9F62F2);
+  border-radius: 2px;
+}
