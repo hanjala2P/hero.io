@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://images.unsplash.com/photo-1540350394557-8d14678e7f91?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1000&auto=format&fit=crop",
     "title": "TaskMaster Pro",
     "companyName": "HERO.IO",
     "description": "The ultimate productivity tool for managing daily tasks and team collaboration effortlessly.",
@@ -10,54 +10,54 @@
     "ratingAvg": 4.8,
     "downloads": 500000,
     "ratings": [
-      { "name": "1 star", "count": 200 }, { "name": "2 star", "count": 300 }, { "name": "3 star", "count": 1000 }, { "name": "4 star", "count": 3000 }, { "name": "5 star", "count": 8000 }
+      { "name": "1 star", "count": 150 }, { "name": "2 star", "count": 250 }, { "name": "3 star", "count": 800 }, { "name": "4 star", "count": 2800 }, { "name": "5 star", "count": 8500 }
     ]
   },
   {
     "id": 2,
-    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.squarespace-cdn.com/content/v1/63d139bc320e134c95e2f3a4/15b7881a-08a3-412a-a2b1-5631e039d5a3/gallerydownwarddog?format=2500w",
     "title": "ZenFlow Yoga",
     "companyName": "FitTech Solutions",
     "description": "Guided yoga sessions and meditation routines to help you stay calm and fit.",
     "size": 120,
     "reviews": 8900,
-    "ratingAvg": 4.5,
+    "ratingAvg": 4.3,
     "downloads": 250000,
     "ratings": [
-      { "name": "1 star", "count": 400 }, { "name": "2 star", "count": 500 }, { "name": "3 star", "count": 1000 }, { "name": "4 star", "count": 2000 }, { "name": "5 star", "count": 5000 }
+      { "name": "1 star", "count": 600 }, { "name": "2 star", "count": 700 }, { "name": "3 star", "count": 1200 }, { "name": "4 star", "count": 3500 }, { "name": "5 star", "count": 2900 }
     ]
   },
   {
     "id": 3,
-    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1000&auto=format&fit=crop",
     "title": "CryptoGuard Wallet",
     "companyName": "SecureBlock",
     "description": "A highly secure decentralized wallet for managing all your digital assets and NFTs.",
     "size": 65,
     "reviews": 15600,
-    "ratingAvg": 4.2,
+    "ratingAvg": 3.9,
     "downloads": 1000000,
     "ratings": [
-      { "name": "1 star", "count": 1200 }, { "name": "2 star", "count": 800 }, { "name": "3 star", "count": 2000 }, { "name": "4 star", "count": 4000 }, { "name": "5 star", "count": 7600 }
+      { "name": "1 star", "count": 2500 }, { "name": "2 star", "count": 1800 }, { "name": "3 star", "count": 3000 }, { "name": "4 star", "count": 4000 }, { "name": "5 star", "count": 4300 }
     ]
   },
   {
     "id": 4,
-    "image": "https://images.unsplash.com/photo-1574717024453-354056afd69c?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://pixlr.com/images/index/ai-image-generator-one.webp",
     "title": "Pixel Editor AI",
     "companyName": "Visionary Apps",
     "description": "Transform your photos with powerful AI-driven editing tools and artistic filters.",
     "size": 85,
     "reviews": 22000,
-    "ratingAvg": 4.7,
+    "ratingAvg": 4.6,
     "downloads": 3000000,
     "ratings": [
-      { "name": "1 star", "count": 500 }, { "name": "2 star", "count": 500 }, { "name": "3 star", "count": 2000 }, { "name": "4 star", "count": 5000 }, { "name": "5 star", "count": 14000 }
+      { "name": "1 star", "count": 400 }, { "name": "2 star", "count": 900 }, { "name": "3 star", "count": 2500 }, { "name": "4 star", "count": 6200 }, { "name": "5 star", "count": 12000 }
     ]
   },
   {
     "id": 5,
-    "image": "https://images.unsplash.com/photo-1526367790999-0150786486a9?q=80&w=1000&auto=format&fit=crop",
+    "image": "data:image/jpeg;base64,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",
     "title": "FoodieDash",
     "companyName": "Urban Delivery",
     "description": "Get your favorite meals delivered from local restaurants in under 30 minutes.",
@@ -66,12 +66,12 @@
     "ratingAvg": 4.1,
     "downloads": 5000000,
     "ratings": [
-      { "name": "1 star", "count": 5000 }, { "name": "2 star", "count": 3000 }, { "name": "3 star", "count": 7000 }, { "name": "4 star", "count": 10000 }, { "name": "5 star", "count": 20000 }
+      { "name": "1 star", "count": 8000 }, { "name": "2 star", "count": 4500 }, { "name": "3 star", "count": 7500 }, { "name": "4 star", "count": 12000 }, { "name": "5 star", "count": 13000 }
     ]
   },
   {
     "id": 6,
-    "image": "https://images.unsplash.com/photo-1543269664-76bc3997d9ea?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1000&auto=format&fit=crop",
     "title": "LangHero",
     "companyName": "EduGlobal",
     "description": "Learn over 50 languages with interactive games and real-life conversation practice.",
@@ -80,54 +80,54 @@
     "ratingAvg": 4.9,
     "downloads": 2000000,
     "ratings": [
-      { "name": "1 star", "count": 100 }, { "name": "2 star", "count": 200 }, { "name": "3 star", "count": 700 }, { "name": "4 star", "count": 6000 }, { "name": "5 star", "count": 25000 }
+      { "name": "1 star", "count": 50 }, { "name": "2 star", "count": 150 }, { "name": "3 star", "count": 500 }, { "name": "4 star", "count": 4300 }, { "name": "5 star", "count": 27000 }
     ]
   },
   {
     "id": 7,
-    "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1000&auto=format&fit=crop",
     "title": "CodeSync IDE",
     "companyName": "DevTools Lab",
     "description": "A cloud-based IDE for developers to write, test, and deploy code on the go.",
     "size": 110,
     "reviews": 5400,
-    "ratingAvg": 4.4,
+    "ratingAvg": 4.5,
     "downloads": 150000,
     "ratings": [
-      { "name": "1 star", "count": 300 }, { "name": "2 star", "count": 400 }, { "name": "3 star", "count": 800 }, { "name": "4 star", "count": 1200 }, { "name": "5 star", "count": 2700 }
+      { "name": "1 star", "count": 120 }, { "name": "2 star", "count": 300 }, { "name": "3 star", "count": 680 }, { "name": "4 star", "count": 1300 }, { "name": "5 star", "count": 3000 }
     ]
   },
   {
     "id": 8,
-    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=1000&auto=format&fit=crop",
     "title": "SkyWatch Weather",
     "companyName": "MeteoGroup",
     "description": "Hyper-local weather forecasts with real-time radar and storm notifications.",
     "size": 28,
     "reviews": 128000,
-    "ratingAvg": 4.6,
+    "ratingAvg": 3.7,
     "downloads": 10000000,
     "ratings": [
-      { "name": "1 star", "count": 4000 }, { "name": "2 star", "count": 4000 }, { "name": "3 star", "count": 10000 }, { "name": "4 star", "count": 30000 }, { "name": "5 star", "count": 80000 }
+      { "name": "1 star", "count": 25000 }, { "name": "2 star", "count": 15000 }, { "name": "3 star", "count": 22000 }, { "name": "4 star", "count": 31000 }, { "name": "5 star", "count": 35000 }
     ]
   },
   {
     "id": 9,
-    "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1000&auto=format&fit=crop",
     "title": "FinTrack",
     "companyName": "WealthWave",
     "description": "Manage your budget, track expenses, and save money with smart insights.",
     "size": 32,
     "reviews": 18200,
-    "ratingAvg": 4.3,
+    "ratingAvg": 4.4,
     "downloads": 800000,
     "ratings": [
-      { "name": "1 star", "count": 1200 }, { "name": "2 star", "count": 1000 }, { "name": "3 star", "count": 2500 }, { "name": "4 star", "count": 4500 }, { "name": "5 star", "count": 9000 }
+      { "name": "1 star", "count": 600 }, { "name": "2 star", "count": 800 }, { "name": "3 star", "count": 2100 }, { "name": "4 star", "count": 5500 }, { "name": "5 star", "count": 9200 }
     ]
   },
   {
     "id": 10,
-    "image": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=1000&auto=format&fit=crop",
     "title": "TuneIt Music",
     "companyName": "AudioVerse",
     "description": "Stream millions of songs and podcasts offline without any ads.",
@@ -136,40 +136,40 @@
     "ratingAvg": 4.7,
     "downloads": 15000000,
     "ratings": [
-      { "name": "1 star", "count": 5000 }, { "name": "2 star", "count": 5000 }, { "name": "3 star", "count": 20000 }, { "name": "4 star", "count": 50000 }, { "name": "5 star", "count": 130000 }
+      { "name": "1 star", "count": 4000 }, { "name": "2 star", "count": 8000 }, { "name": "3 star", "count": 18000 }, { "name": "4 star", "count": 60000 }, { "name": "5 star", "count": 120000 }
     ]
   },
   {
     "id": 11,
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?q=80&w=1000&auto=format&fit=crop",
     "title": "TravelBuddy",
     "companyName": "Wanderlust Inc",
     "description": "Discover hidden gems, plan itineraries, and book stays anywhere in the world.",
     "size": 78,
     "reviews": 9500,
-    "ratingAvg": 4.4,
+    "ratingAvg": 3.5,
     "downloads": 400000,
     "ratings": [
-      { "name": "1 star", "count": 500 }, { "name": "2 star", "count": 500 }, { "name": "3 star", "count": 1500 }, { "name": "4 star", "count": 2500 }, { "name": "5 star", "count": 4500 }
+      { "name": "1 star", "count": 1800 }, { "name": "2 star", "count": 1200 }, { "name": "3 star", "count": 2000 }, { "name": "4 star", "count": 2500 }, { "name": "5 star", "count": 2000 }
     ]
   },
   {
     "id": 12,
-    "image": "https://images.unsplash.com/photo-1511295742364-903170ca24ce?q=80&w=1000&auto=format&fit=crop",
+    "image": "data:image/jpeg;base64,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",
     "title": "SleepWell AI",
     "companyName": "HealthMind",
     "description": "Track your sleep cycles and wake up refreshed with AI-powered alarms.",
     "size": 40,
     "reviews": 11000,
-    "ratingAvg": 4.5,
+    "ratingAvg": 4.2,
     "downloads": 600000,
     "ratings": [
-      { "name": "1 star", "count": 400 }, { "name": "2 star", "count": 600 }, { "name": "3 star", "count": 1500 }, { "name": "4 star", "count": 2500 }, { "name": "5 star", "count": 6000 }
+      { "name": "1 star", "count": 800 }, { "name": "2 star", "count": 1100 }, { "name": "3 star", "count": 1500 }, { "name": "4 star", "count": 3200 }, { "name": "5 star", "count": 4400 }
     ]
   },
   {
     "id": 13,
-    "image": "https://images.unsplash.com/photo-1618044619888-009e412ff12a?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?q=80&w=1000&auto=format&fit=crop",
     "title": "QuickScanner PDF",
     "companyName": "DocuTech",
     "description": "Scan any document into a high-quality PDF and share instantly.",
@@ -178,21 +178,21 @@
     "ratingAvg": 4.8,
     "downloads": 4000000,
     "ratings": [
-      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 1000 }, { "name": "3 star", "count": 5000 }, { "name": "4 star", "count": 15000 }, { "name": "5 star", "count": 45000 }
+      { "name": "1 star", "count": 500 }, { "name": "2 star", "count": 1200 }, { "name": "3 star", "count": 4300 }, { "name": "4 star", "count": 15000 }, { "name": "5 star", "count": 46000 }
     ]
   },
   {
     "id": 14,
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?q=80&w=1000&auto=format&fit=crop",
     "title": "GameHub Stream",
     "companyName": "PlayZone",
     "description": "Watch your favorite streamers or broadcast your gameplay to millions.",
     "size": 95,
     "reviews": 142000,
-    "ratingAvg": 4.6,
+    "ratingAvg": 4.5,
     "downloads": 8000000,
     "ratings": [
-      { "name": "1 star", "count": 6000 }, { "name": "2 star", "count": 6000 }, { "name": "3 star", "count": 15000 }, { "name": "4 star", "count": 35000 }, { "name": "5 star", "count": 80000 }
+      { "name": "1 star", "count": 12000 }, { "name": "2 star", "count": 8000 }, { "name": "3 star", "count": 15000 }, { "name": "4 star", "count": 42000 }, { "name": "5 star", "count": 65000 }
     ]
   },
   {
@@ -206,21 +206,21 @@
     "ratingAvg": 4.7,
     "downloads": 200000,
     "ratings": [
-      { "name": "1 star", "count": 100 }, { "name": "2 star", "count": 200 }, { "name": "3 star", "count": 500 }, { "name": "4 star", "count": 1700 }, { "name": "5 star", "count": 5000 }
+      { "name": "1 star", "count": 100 }, { "name": "2 star", "count": 200 }, { "name": "3 star", "count": 600 }, { "name": "4 star", "count": 1600 }, { "name": "5 star", "count": 5000 }
     ]
   },
   {
     "id": 16,
-    "image": "https://images.unsplash.com/photo-1616489953149-8e7c0500874e?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1000&auto=format&fit=crop",
     "title": "HomeDecor AR",
     "companyName": "Creative Space",
     "description": "Visualize furniture and decor in your room using Augmented Reality.",
     "size": 150,
     "reviews": 3400,
-    "ratingAvg": 4.2,
+    "ratingAvg": 3.8,
     "downloads": 100000,
     "ratings": [
-      { "name": "1 star", "count": 300 }, { "name": "2 star", "count": 300 }, { "name": "3 star", "count": 600 }, { "name": "4 star", "count": 1000 }, { "name": "5 star", "count": 1200 }
+      { "name": "1 star", "count": 500 }, { "name": "2 star", "count": 400 }, { "name": "3 star", "count": 800 }, { "name": "4 star", "count": 900 }, { "name": "5 star", "count": 800 }
     ]
   },
   {
@@ -234,21 +234,21 @@
     "ratingAvg": 4.4,
     "downloads": 5000000,
     "ratings": [
-      { "name": "1 star", "count": 5000 }, { "name": "2 star", "count": 6000 }, { "name": "3 star", "count": 12000 }, { "name": "4 star", "count": 21000 }, { "name": "5 star", "count": 45000 }
+      { "name": "1 star", "count": 6000 }, { "name": "2 star", "count": 7000 }, { "name": "3 star", "count": 11000 }, { "name": "4 star", "count": 25000 }, { "name": "5 star", "count": 40000 }
     ]
   },
   {
     "id": 18,
-    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=1000&auto=format&fit=crop",
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMVFRUXFx4XGBYYGB0YGBoYGBgYHRgYHR0aHSggGBolHRcXITIiJSkrLi4uHR81ODMvNygtLisBCgoKDg0OGxAQGysiICUrLy0tLi0uLS8vLSsrLS8uLy0vMC8tNS0tLSstLS0tLS0tNS4tLS0tLS0tLS0tLS0tLf/AABEIAP0AxwMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAFBgMEAQIHAP/EAEEQAAICAAQDBQQHBwMEAgMAAAECAxEABBIhBTFBBhMiUWEycYGRFCMzQnKhsgdSscHR4fAVYvEWc4KSJMI0Q2P/xAAbAQABBQEBAAAAAAAAAAAAAAAAAQIDBAYFB//EADARAAICAQIEBAUEAwEBAAAAAAABAhEDEiEEMTJxE0FRYSKBkdHwQqHB8QUUseEj/9oADAMBAAIRAxEAPwCziDiH2Un4G/ScT4gz/wBlJ+Bv0nGXh1I2uTofY51jNbY9ibLwM+yqT7h/lY07aXMxsYuTpGuPH0xYbh0v7hNeRB/IHFQYapJ8mOnjnDqTXcwTjJx4nGpOFGGhGNhGx5XjIxuvXn8r/ntgAhIx7GZTvvz+WNdWFAybxisYDYyWwAZGNrxqpxIFwgGKxjGwGNJJAKBIBwAZONSMZ7wYwXGFAxjBOMk4wa2wAZAxqBjJONFfngA9j2MkVj2ADqeIM/8AZSfgb9JxPiDP/ZSfgb9JxmYdSNnk6H2EHLZfW4W6vmfIDcn5DBQkaVCoWBFpELA0/vyVuxPlyxU4an2gHMxOB76/peLmb5TEHYpCV/DsP5HHdyu51+fn2M7wyUcTl3/ZX/HbdehAoYWWy1BebRqyMvqDe9Y2z8GpS12ygMHG3eRtsCR+8p2OJI5D32V8R9hevmzj+2NnXRGwPNIWVvRpX8K+8DEdtST/AD8+5NSlCS8vl6J+Xe/l6Njf+yfIQS5bOLmUQoSilmABAcMLDVam63sVzwl8d7NzZbNtlSpdywERH/7FY1GR6nkR0II6Xhn7G0eEcV/AP0tgj2e7a5c5X6RmgHzmTUpDq9qTvBpUr5nanO9bttqxdOOXeM9m4cnwXMRAI86iNpXoFhI0kZoE8lCkADbaj97HPOCdk87m115fLl0BrUSqLY5gF2GquW14aeE555uC8UmkbU75hWY+ZJy/yA2AHQUOmJniWPh+U/1DiEmXiddcEOXjOsqRepyoOrZwaIoFuZOABE45wXMZZxHPC0btuq7Nq3rwlSQ25AoG9xgmf2d8UMev6I9c61x6689Ou/hz9MO3arMqmT4RPA0mc7vMAxsyHvZVXUxWq1avqwOX3Qax4ZiDN57v8rxLMZXNsR/8XMxvpDaApj0kqu4Hs22+4HLAAq9gewMmdZmmE0WXCuBIjRhu+VlHdlXDMOb3ajcc8As12ZzsEkcM8DLLKPAgKuW33092zdfPHQv2cSZkcXzcWYY6xFKzorHu+8MsNuqjwi7u6B39cD/2Ku02aeSaV5JI8t4C7NIRqZdZGok8qG37x88AADPdguIxRd42VbSBZ0sjkAdSqsT8ht1xR4X2fzM8bSQwtIiMFJWiQWqvDeo8xuAQOZrD/wBms1lYMyMweNyT6r1oYZak1A9NRAIamG21UNsTcKzyxZHjEuValE7GJgCKDhRYBFitRrbahgAU+D9hcw2dhy2ZjaESAyHxIzd2hAYjSzUbZRvyu6NYIcU/aAmVkMHD8plUhQ6dciF2krbVYZTv5ksSKO3LEn7JuIs3ECJpXdny8iI0js5vVG5ALE9EY/DHPc9k3iYxOCHjJRh5Mpo4AGrtdncjnMl9KjWPLZxXKyQJsJFNeNRQF7hr5+0DqoHDJ+0HslmMzmIBlMtqUZZdRXRGlln5lioJ5bCzyxzd+ATtk3zYX6gMYy5IHisCgLttzW3kfI46H+2LicyvlYUldE7gOQrFbYnTZqroLt5WcAHPOMcJnysnd5iNonrVTEEEb7hlJVhtzBPXBbKdgOJSxiRMq2kgEamRGIPXSzBh8QMPWehXMJwB5zrZmAZmNlvDGabztkW752fPGO2QgOfkd+NyZaSMrUQikYRUqkDZgrXeo7b6qO2ABJ7F9kps1mxHJC/dQyAZmyEZB4iFIJDeIqR4RY9Njgr+1PJdyAi8MhykQnIjzMZj1TAIwpgo1AG9Xi8hg/nOMwy8fyb5WZisi6ZwoeNWZEm0llYDUdJA3uqGEDt7nJHz+aRpJGRcw+lGcsq+Ijwgml28sKAB1dcexqR/nyx7AB1jEGe+yk/A36TifEGe+zk/A36TjLw6kbTJ0PsIuXmKMGXmDY/pgsIkkTwgsg3AWjJFfNdP30vlWAmMISDYNHoRscaLJj1brmZPDm0LS1aZffJRL7Uxry7pw3u8Ww+eK+azIICINMYN0d2Zv3mPn6dMazZuRxpaR2HkWJ/jiqcEYPnJ3+dkE8i5QVJ/nqxh4N2j7jKZrLd2H+kgDXr06KBHs6Tq5+YwvOMZGPacSkAZ4d2jMWQzGSEWrv3D95rorpMe2nT4r7vzHP0wZyPbWA5WGDO5BM0cuuiJy+k6aACnwk8lUE3vQ22wnBd8Y35fHAFDhxnt480eVWOCOBsrKJYzGfAAoYJHooUApCnfffYXQIjt7lTJ9KPC4vpd33nebagKD+xz2HmfXrhAI3xuDgCg7wrtbPBnpM9SSSSag6nwqytpOkVZUDStc/ZF3iT/AKvWPMxT5PKRZQopVo0bUsgYiw1Ktchy6gHpWF2bEmQgRmAeTQPPSW38tvS8DdK2CVukPUXbzLxlpstw2KLMtdya7ALe0wUKLv003gFle0zx5TNZVoyzZlw7SlqIJKknTp8RNXdjniPJ8MgZgomLnnQQqKHPc4xxh4HkclpAw22VSvh28wTyxXWdOelJ/Rll8K1DU2ufqvn/AACMtM8bq8bMrqwZGXmGHKvP3dcOUnbrLT0+d4ZDNMAAZVbQWrlY0k/mfhhd7PZfVOt8k8R+HL8yPlgfmnDO7fvMW+ZJ/niRTubj6ETx1jU35uvoFe1naqTORpAsSZfLxjwQx+yDRAJ2F0CaAAAs+/GO2PaU56SKQxCLu4hFWvXdEnVela58vzwCK40vEhHQwcX7UtNlsnAsZjOU3WUPZYjTpbTpGggqDzODUn7QMtMVlzfDYpsyoAEqvoDFeRI0mqPQ6qwiE41vAFDF/wBXyNxFOISoJGQ+GMNpAQKyhA1E0NZNkGyTyvYJxvPfSMzNPp0d7I0mm706jdXQuvOhiuTjGnAFEbY9iTHsKFHU8QZ/7KT8DfpOJ8QZ77KT8DfpOMxDqRs8nQ+wgYPZXsnmngkzPdFIY0aQu/h1AC/CObX0NV64C5aZkdWUlWBsEcwfMeuO65iZm4BrdmZjkAzMxLMSYgSSTuSfM40xjDkHZ7svmM4HMSqscftyyHTGtCyCaJJregDW11YxLP2NnOXObgaPMwC9TRawy6faLJIitQ9Adt+W+OrPkxl+AMiiicmWb1aVLc/Njgf+xB//AI2YXoJr/wDZFH/1GASzkXCeGSzyLFCheRuSj8ySdgPU4Yl7BTtM+WSfLPmY01vAGfVpNcmMYQnxLYvbUL546P8As34HHBmOIsoA05gwpt7KACQKPSpFH/iMKfZnMk9o5D+9NmEPuUSV+gYAs59mMs8TtHIpSRDTKw3B22/v1G+IXG4x1D9s3CC+byzQxs8s0bgqgtm7kqboczUh38gPLCxn+x2ZGWyzJlJzKzTCUaHJAUx91a14b1PWwv4YBbFU49eN3jKkqwIKkgg7EEGiCOhBxqcAFnh2TM0gjB6WxrkvU/wwwyZbLxQPIsYI06VZvFqugG32q+RHTlscDOAZmKNZu8bSWr3lRdgV1NkfHF3MZgZjLKSyoveEyb+wi6tIA6sRoodScUM8pvIluopr7/P0/s6vCxxxxNqnJp/Ly+Xr/RDwT6uCWc+WlD8av518jgUkJKM90q1Z8yTso8z1+GDs57/Kx93pjTWdVnZETWBq351pNeZ+OAPEs4rAJH9mns3zY9XPqfyGJMMnKUn5t7+yRDxEIwjFXslt7t732/oNcHyzfR3Ke3MdC+g3Bb0A8Z+AxS4lw2NIu8jdmp9BJqiepWugO3wPxtcR41GmWRIWtiumxsVAA1E+TE/1xLn8kNEMJOmKJO8lb1OwA/3E69vXEMZTUtT2tv6L8SRYljxyhojvUVv6N/jb9ilwbJoEOYmUsuoKi1epiauuu5r4Hyxfj4bAc26FXYhSxB0iMaq2AAu/FtjebPwGOKQsoSPxCIEatYFItf7bPpdHlilwjiOmPM5pq1kgBb6geEe62A9ww2TyS1S3Xl+9L7vuPhHDDTDZrm37JW3/AAl7G3+iwuJIY7MsenVISa1MTa1dUAD/AM3iVI8v3GYVUUpEunvDuzSAEk30o6a/pijkcwYclLNfjmfSp69QT7x9YcScLgD5BkVlW5PrGJoIoIJJ/wDFRQ64WSlvcnSkl939hsHDbTFW4t/Lel92VuzPCBNqkdSyLsFG2tvK/IbfMeuI+N5ZWlKwKoKxlpdJ8ClbJony2HvI5b4JZ4d9k40yqHT3mgr1CrrILeV+FiT54B5+VY4/o8RDWQZZBydhyRf9i/mfzmxylOblftXovVkGWMMeJQrar1er9F+cvcHBsexrWPYunNOs4gz32Un4G/ScT4hzv2b/AIG/ScZeHUjaZOh9hEU47pJGf+nwKN/QBt1+xGOHxglgBVk0PeTthyfiHFNfdrnlkPfLl2VJL0SSMyqHBQUpKMLFjY405jB34XnRneBukZ1SrlmhZfvd5HGQP/agR78D/wBjjrFkszPIwWPvb1nYaUjXU3uskfDHP+FJPFIDlc1GG0lneKRgiIlEmTUoGnfYUd+Qurl43mc5Kjd7mRNEkffjQwEZUSqhIUKvjDuNmUEbnruCUPf7Le0yzZrOIx0tPM2YjB2JHIr+IIse3Wm8sC+A8PZe0koo+F5Zj+GRDR91zKMKf/Tk6SaEkiMizJCe7kOqOV20pZ0gjxCtS3R+GLcvGc/L4E4ijp3TPJIkhGiNKsvJ3YkrxCq1E3gAv/tl42sucSKNr+joylgeTuQXUEeQVAfWx0wqZ7jOvL5eENIHiaZna6VhKYitU1mtBu/PbFPP5ExtpLIwKqysjalZWFgg7H4EAg3YGKz74UDN8+uPOcexlUwAaNjWQ/Ov6YmKWBjbL8LlkWV40ZlhXXIR9xN/Ed+Wx5YAZRB548Dg9P2MziyLEIwzNGkop1A0ylgi25UGQlGGkWdtrxYyXYqUqkkrpCksLyxsQ7WVhMqqQqnmisTp1EBWFaqUqAsMcXcxxGR1VXcsByBry6+Zrqd8MK9hZVQSS5iBAIjLILZmjURd7uqi28F+zYsV1BNjL9l8uzwQD6S0kkcEpnQL3QTMSItaStqAr1r1HxA+GtsNaT3FUmk0nzEphjTRhyXsJmJHP0cpLHWpHthqBklRU3QU9wvZICcjq3GB0nZiXXlYleNpc0gdUB2jVj4C7C+YtuWwB54UQXrNVZq7rpfK686GMAYuDISadfdtVgDY2bRnBC+0V0KzXVULxWGADxc0QCQDzF8/f541Ax4nGQcAGKxnGhOM4AOr4gz32Un4G/ScT4gz32Un4G/ScZeHUjaZOh9hIy8mllPkQfkbwxf9XFpu8kDMozkeZjXwgqqPIWQkAaiVdRZv2fXC0DjwGNOYwPz8eQt4mzEqPG0UneFA6qzRsDGRYsPGpo7Gq62KL5+FUljijcCTLmLW5GtnM0cmtgNgAI9IUX5km9hrqMar/PAAxZjtY75sTHV3K5pcx3QCqSEfUASoGtgLFtfPGn+tp3qOZc45VGUSGRUljJ00yaNm9khlbYhj6EAKxlRgAv8AHc4s0gdVIpApYhQ0jAm5HCAKGNgbXsosk2cD3TGScFeH9nsxMiyKoEbd4e8Y+ECEAyE1ZuiaUAsdLECgTgAD1gvwLgpnmEDP3LshaPWp8TVaKBsfFvRF/HB+PJZfJJ3+oszoFikkRJY2doe8WaJBZ0K4MLhgSNam1O2AXHOPvmpVaNWUpIzxtqLSoHYPo1g+ykmsofuhq6YBLD0XCuHBo5nZ0jaOObu5WuMiVZE0AKO8YxzqusX7JJ5A2Kg4/Hk83mZMqoMckehUBZoxJ9W33wGkjEisKIFqxHKjgXPk3LF8xKQx3Nku5J3sk/xs4gGbgSqj1kcyxsH4ChgK74iHKO/YPZn9oOZMmqKOFCCQmzM6rrDqoYFbCsOVUbOoHaqCcQ4gSpQuuhtalIUjptLICWCAv4ZHUai2zEYHSdo3AIjAjHkihf4Ypy8Ylbm5PxwWJ4mR8opd2HWy/EpFCFpigUqEMwACMNLLRceEjw0dq25bYkgyHFFRUUziNGDqqzAorA2GCiSgQfFsOe/PCyc9J++fmcbLxKQcnb/2OCw1Zvb9w0+az8C0e9RQoXxxBlCqXK6S6EKQZJKZaYajviHJdoJUmTMKUMkcXcxmtkVYTEhA5EqDe+xPPEOV7TZleUr/ADxePasv9tDDN6ugJ+dWPhgsXxZrnH6MNZftvGWmJjki74Ts9FZ7ln7hbqSqQRxOoBBA1jYgYs5Ph3DppCiCCpG+jwiFpC4WVyVmdMwLEkMMTszgkEvVWN19W4dNsVlyzHqja0v1V7Ne4jGmY7Iykass8eaXn9Wak9fq2Nn/AMS2FHrLF+3cxxPsXmolRwolEjUgjDl943kW1K1qMcbMVUtpqjRq1+RSpIIIINEEUQRzBB5HBqDtJmUBikZmXSIXVvBKIgya4w4GpWZEEepgxVSQKxR45xJszmJZ3FNK5eugB9lfWlAF+mAlB+PYyMewAdYxBnvs5PwN+k4nxDnfs3/A36TjLw6kbTJ0PsIiYxqxKUoYgYjGnMYbXjQjGWbGhfABKBjONQcNXZrhMY0yTrVIZQrFHDIygpJo+4yDxiOX7Zb0+zRAIezvZrvNM2Y8OXPKnUMxJKpY5rGWRxq/2nkPEK+Y4w+Ud4IJe8RHSSFzRMMuxYpTMl+OSJgCyvvzxL2o43IzjKQujxrGqM0ccarIzaXldClmKN2CMYwwGpSSAbAD+GH1k6n930HrgIM2dY9ub9CGPIKvil8N76RQY3+Qx6biNCo1CDyH8TZ54pZnMljZONIsygB1Je/MEg0fmPyOGtlXTPJvP6GkkhJ3PPEZA9+Cg4QJIzNCwdAaZTtIt8gV+97xz8hiKPKVyBvCKSfIWWWMEUUhJxJ9FwYk4c6V3gKWL8Q07eY1VYxp9WDu1+7f+GH0V3xbb+FAr6JjBymCbZiLkGv4HEUubQXW5r1G+AWOfM30sGtlzjTuyMGO+iIsHar3q63/AKY1iiR0DBhqJI0dQoC0xPLclhXSue+wTRzzpuUXS5ggNizlc68ZDIxUjqDiafJVio0VYCWOWGRDXD2ljzIEeeiEvQTL4Zl9zD2h6NY9MU+L9mGRDPl3+kZcbllFSRj/APolmgP31tfPTywETKsRYxf4NxuXLOGRmUg9DRH+eWAfFuPT9AUMew7zcKy/EBry7R5bM82VvDl5PMige5frsNJ8gTePYUkWWL8xixBnvs5PwN+k4nxDnfs3/A36TjMQ6l3Nxk6H2EdXq98Vmb0xYK4iaM77405iyNt8aE42v3csF+z/AGfkzLWFJjSnkAvvHiDfWdyoBMjgCqHVlwAWeymQiN5rNf8A4yOImOlnp3RyjOsZ1CMMqAk0CWABNEY07R8cM7nLwCPuajFqm7d2vhTWyh3ijJYIWANAEjlXu2McOXm0ZNmQvGY5kRpdJVwtKRL4/GCxKEkAaOt4j4ciZeNtagyOux/d5cvXmMBX4nOsUb8/IryMsK6VosR4m9T0HlgPPNfPG2ZkLNSgsT0AJP5bnBvgPAYr15yWOJeehmAb3aeZ92IpzS5lXFj/AFy3bKPA+Ay5pgB4U6uRsBuSR57A7/8AGPca4XHls0I7Oix4m3sEcyBtYPlhqm7XwKRFk4mZTtdadRHVid6HPlWBuYhjzEhkk+tY1sPAoHSud9N7xX8SWr4tkTKTi/iAPEpoVmUws2hgA+wG/XYbVyIGGVOI9/kQY3YypKoICjvQtEDUdi63yJPSsV+KZbIRUJEXURssZJbnfVwB154k4NwTLSsDlMw8Muk3GxKsQSNr21DYbCwD123VtSje4NqSumey3HwGbL55NcdjUGGl4rAtko2h5Gro9cU+OdnNA77LSDMZbpIvNf8Aa46Ecr5Yrcf4HKmY8QKFVXk1Fttip6Cq5nbliEcaaK1VpI3oozhrtWvUGA58+Y3w6O1aSwuFlKKmtgb3GIO6JdUCli3hAHnhu7P8Wgk1Q5mvFWh7FAC9qA0m+W25PXlgAMwsUqsKYK9i+RAPX3jEilJ2q3JXhWOcfitMky/Z6dw+hA2gWyh1JF3Q50T4W+WLGQ4BIAjPKsAkNAG2cmwB4bA0m+eqhvix2eYF7lMixEF40FMHIcDQ5PNCAV5E+hBIJHstkRPJmEeJJZEFqj2K0uO8GlWFeEnl5VY54bqkW3w+J+tAjNZaWIBnQtGQSJAp00CRv+4duRo4h0K48PP/AD5Y6CmT7mUtKrH6sAx6rWix1myTfh6M3tFh4q35jnFaOaQABadhQ5DxHYA9Pf0w7HOT2kc7i+AxwalidFgMUNYkZVk9/njGWzAkGltj09fd5YjkiKHEpSjNxemXP/pD44W2PP5HGcW0kDijj2CiwpJ8zoeIM99nJ+Bv0nE+IM99nJ+Bv0nGZh1I32TofYR1f0x56OME41cnGnMYR6cNyOMvw5JAY5KkOtG+sRpGIKRqyMJMnmIQHbktlmIY7DAXsvkRPOddFEjeQjUyC1U6Cxj+sEespqZASq2dgCRJ2y4q2anSJJRJGAp8J1qJCiiSpSoedRVB3s8963INbSVsocLjLs08rFzuQXJZnf8AeJPM3e5xUz2YZ3PWhZP5DBbijBEWNdgor+p/lir2Ukh7yXvhakxqCeW3eFh79hhk3SOVhl42R5XyXIEz5hyDZNciOnpj2WVANyVP3T067fH/ADnjouZ7OxMuqPSoZWBWudUyEVzZWBB9Cccz4jCytpbnz9N8RxalsdCLUtlsbyZvvJCQAg06aUaV94HS65DbDvwp4wHSRvq10pqBIt2u7boANq9evMc8gOkm8NXZbOp9HzEMhGmQ6lY8lcAaWvot2D7/AEwmWFoTLC0FM5wfLRxd/NGKogRqaINnRZsG23N0aA8+VDheehjikliQxzRjWED643UMNdBwxRwu/PpjGYVpIfrb0xOVIBqQtuABYOo8un9l7M5aeEK4ewTQKE2PCD5WAQa+BxHBWqbJFguFr/o8z8eg4hCY2GmZR4Cw07/uNRPPkD577bjCTDMwmVxQZWB3AFEcwb29N8VJMyaUEU6bEkU1DoetjBWbItPEJY7LFgjDrqagh+Joe+sSqKht5D8T0I34PxHTmXcaV7wsPEQFXUSRuRyBI3FcuYwY4pmY4nky+YRJXT7NxvpL0Tz3ZSCOXX3YSG1AkHZhsQeYI2PuI3xa4dKWmGpjfIE71QAHPyoYWUE9yzHiHCNIfZI17gSQIYZEAZSqjdiApjomqI3odd/Ox2YaTLJE8agSA2k6URKjWCCCLbcEV92iD7VklmeMIkUkMiHZK8TBtYYbbhiBe523HkNsK/E5JZhGiROxXw0q3tzHIbc+vvxXxOT6iWGd5IybVdvM6FlMz9Jg76cAiNvEtKV1kgaguxDBSu10STjnnHJu7zRZ4gyfeW2GsEuA1t4kNV5eyL3skrleAZhV1TP3YYadJfU1HmPCNvwizgbn44WzCqEcRqvjcrI5Njmw+6FPQc99zYxLDmPzR+BeVvZFGbKgE6HDgdQb2O46C9iL2G94uZLNBvA/Pof5e/Fdo9EhC3QFGxR5DmOmIZBveJkziZ8alJwf9FuaEqdsexJlJtY0nn/H++MYfVlDxpY/hnzOiYgz32Un4G/ScT4hzv2b/gb9Jxl4dSPTcnQ+wixjGjnmB7sTFcQd0XdUA3ZgooE7sa5AEnn0BxqDGDrwxf8AT8tMHkbL5xLkKnuNQIEyxhVmjbvFLJGNUbE3MOQG6r2aiJZ5zuRyPLxHcn54sdsJczDqy7Zvv8vqPdjvRLSx0E1L7UD6StrQF3zq8Sxp3WUUdWFnz3/wn4YDn/5DJpxaVzewE4rmLJPywMyGYIB3Nhww+R3HrsPyxZ4h7N38PQV/X8sUcuNJ9+G1sP4WCjjo6Bw7PkxBLIfSNjuj86sG1siugPvwC4/kST3hA3F2vI+fM7deWK3Cc0EY2NQI5fww6ZMx5hFUhQGYA8iTpqwTd6QK3rYG7xUdwkJplGewnZbgBKqX8OsbCt6PK/hvjHCuC5hSo0CiRTatt+eygk7UeXUeeOh8ZyygK9eGMFifMDcn3tyH41wldnuOss5Eumgug6rVVRL+8KKgmz7yb54kyOSi6OpkxLTGl/6EsxlthDKigXt9WdJPSQO+mqFDSFv5b65bg0hV3SRnGst4iChDUtDpq9kbDp0rGuZ7Yo4MSsSpNKGoom59nUoNb3vq94G2JczxZost3UWjfxISd2UgWR0qzsOfi60cVayL2LnBaPD+JVQIzHBTPrMTCybZSBsQaFFd229B8cbdhjpzBy8nhWVdLXzU/dcD052NrGCudy4y0mqEd9l2AuRgWIJFkEqQATditjS+uG/s1xvLZxPozLVVpUA6hRvWCdhR3PU2djZxNKUopp7lfifDbWldzlnbvLAZp5VApzbABtmYars7G1KmweuAmTyxbxU9AFrA6KLarIva+WOodv5IBL9HlRXC6ZCw8Dlh3lrqG6g6gCP9owt8R4jDKFjCFQKAcAWBXhH4etXz387fDK9KVCY8CmtTdehrk8vkY0V5mkckWoINbVY9o8rHM/DBGXtlDGKgiA8i1UP/ABW/mTglwvhEJRZmcOrkx6G9gMCCRdWvs9bJ3wJ492ciWORUVSytYZOW1+EEnxDSymhvv6A4RZYylTRc0SxxuFBjstxKPMyMGVpGCq3etvW58KqNkBPIUb3xR4rxGNpBE1d2rU5C1srEWpDeLYA9Nx8cUeyPAZwVeiEawGUnfcDmvIEkbGuXQisLkslOy70NxZv3/wBcMeNSm97F8ZpKUluxxyD5fMMizByzExqbRb6gk8w3M2xIJvEq5DhwRjHHLM2hvaJXxLQbmQdiVO3r0Bpd4dNCN5CdaqzUCCC1eCiD5H15euxzs9xBVVmSNCa0o5ZqUli2gAit2I5ke/xHDJRafNjtGOb1NRvtuL+c4S4ZTAskgKB20IzaGJIKGh6A3649hz4j2nWBkmbLumtSoTYWQfGN91ANnlZJ9bx7D/Fy/pja9bKWbhMWq7r29C9iDPfZyfgb9JxPiDP/AGUn4G/SccaHUjUZOh9hDL4IdmMoJMyNV6I1aV6MmrQg5r3P1hYEgjTvt5XgXeD/AGV4KuYDmObMQ5mM6lMUTyDQdI1XF41b7Qc97WuRB05iyt24zLS51IjqqNI40LySSsUf65XYyhXDFZgCrAFdIG9XiftAwFL0Ar8v7nAXIAtnRqkaQiQ/WNq1PRI1kP4rPOm3898EeONbsPWvzOEZx/8AIO8sIgDO8gP823/icVZthfli5nfaHuxTzXs4C/i5InjkFAjr/lY6L2IyASDW43k8Rv8AcNaB6AgFvW/Q1zHJSDYNekNvXPSeYHrhk4j2ilmTQAIoQPZW9x6nqOW2w99DDGl5lvHpW8hnz/HYmkCBvqlOotZ8bg7EEDktlh5tuNgMLXFYcpNme7gPdlh7Z1UTdBfE1b+vPbz2XcxMQfdiPhso70MRdclJoH0OGOD52NnKUpavoh97OPFkZJIM7ErBX0sGCkr7JDqOW92fQjkQbdYuz3D5YhJl1RlF1pdiFvmNnIXluOnljlOezol0tHEqblWQVfK9S1v587vFvhfZyeNWmGZMLqNhGWDHyDEUCOfh35YRZFFfGXsUp5F8MSx2g72OQqFUgHbmTXIAnrVDDD2Ynhy4WSNbY+JnIGtjt4QLNLvy/nyWm4vIzkTlJmXYNQjY/wC7a1257HfDjwjimThg+ksEF6SSG1BSdiWCrZeyboE9OmI8yTWxS4qNb0Cf2i5ZZpmZY2XMKoaRdV6wFFFR96lFGt9uXUoUE418vDXI3zIqxuNxzF/G8P8A204RmDIcyni21Wt8rsEbkkUef8MKPHcv9YJtNCXxkUAFc/aJQ5eLcejDreFxStUMwSblzPPmnWNk7wMpZaU8+tGuV+dG9+u+G3hfHaHdDSCEVQerSLfiQmwrEFbJu9I5bDFI8GGby+tUVTGAWmBKigDsQSVY9Oh5c+WPdlMmoSIyudBkYjYUNIFeI7oxNX6Lz8mzaUbOzjvVpfIv8Nz8mXnMAKyatwl6NJtvq6aqP+3y+eFfjXZeRA8yq5jvVuvsq1mhV6lUdaG1GqxdzL/R85qZUaNgTS/fRyyncncnfy+GHaebvEiQghJACwumKEUq0DyCs3MbkjfDbcLl7BNLJSaOOPAQaBvyIs3dV08yBjOVlo6S1DnRJCk2OdA9P4D3YgSQ/wC7f2SR12v/ADptg5luDq2gyyaAzabC662BN0edeV4tyaS3OfBOT+A0zfG5JAilj9Xegg7rq9oXzPXn5nGMez3CjBM8bUSpHiAIDAgFWo8rBGPYSKjWxDk4uSk0zpeIM/8AZSfgb9JxPiDP/ZSfgb9JxnYdS7mzydD7HPzg12WTMnve4yseZW42dZDpVZIy5hYN3ieIEvte4ux1wCOG3sBEjidHRJVLRXGyQPp+1H0g/SDWiMEg6d/GOXXTmLFzgTs+dLOfGzO7+rkkty2G5PLFni/tE4pcBNZulKtuwBUUrC+ajoCOQ8sX+NbMQeeEfI4nG3/tR7ALOAggnfbzvn/zivnhsMTZsYiznsjCI6OPyKuTI1eI0D1Pn0/Pb44t5qegVHXFCsbEWOfLl7vLBRZo0Ck+uLGXhvnQHn192IIAboc+W2CvDAQrWNkG+25JPU+W2Ek6RNjimynHavte35Yf+GZ5RlNI0tJTAhiByU1WrrZ3P88KORIbMIG0gE1bVpF9fIVY+QwY/wBQRQ8Ui600kI1eJGJ9oVX53yPnivmWppF/hGsakyTNZeObKiZSdakCRSdq8/fd/wCHCzxbLEN4dRBb2Sd+XhsDrV4ZfpqhEESAazpbSPERpG1C/fY6+7FefJfauKAFPXUagG8VgefOvlhMctJHxtJX5grhXaTM5dSkchCnYqwDAWALUH2SAoqsbPMrISSSSeWonUTQDb9dt97N3irm4Q+9kMAK/dI9eoO533vYUOeIY3oaTzHy+fzxO0nuUsUkm9jonZ/iMBygy7N3ZfYsxJ1XWquQWhtdjlzvFbh0oj7zKzSKdFGNwNti1lSBYY3YPmOmFOMswVAFamsMAAfFWxahe42v4YY8j2WZwZJXaOTxNGu1mqHPz36eW+K+SlzZ08cm+lWAuI8X7y9Qt1GkMRRIXkxrk3O96O3lZNcC4lOzRFZAwCt92wlEVzr05Gq+OBOTijSIzSAvqfSDVi9qvrfPasE/pqJotBpYbqpMd6gQLKnURWs9LsDlzdKmqIMGWUpO/IXOLZcgjmddvW4KljzYkBdzvt0rcYYZsorGM9ySJKpi1DWqBWICmwG0hgaHWwa22yPCUkdpXdAoFaLtRpGygWTVg72d+fPD9xID6PGyhXAplAOwKgmwehUgGtr36Xhss6vSTw4ZxTl6+Qkdq+HPFIrOzPYCuw8elgBpXnYBXcA/D0xi6JZsxCVV4tWrU8bx6lYaidTF7Utqc9AAQPTHsOhNJVdFbLwkHLVpu9/MPYgz/wBlJ+Bv0nE+IM/9lJ+Bv0nHDh1LuafJ0Psc9bDV2L4kiRS63lQxlX1KmWCCNnVTqknUsCXddugA0/epTvBvsHnEjzqd5L3SOCh9nS52IRtastEqDuOYG45jTmLBz6o+IuGXQe/e1JDaQzMdOobNsRuOfPFnjaESttQBsD0vbEHa+ExcQckuSSkhZ9XiZ1UyMpcAvH3neBWrcD0vBntNFfdvftoCvrQF/wAMIzlcdcckZC/xPK6XO22Ks8FofSv8/MYaeOZdO4glA9pQD13I3PzBwPhhWip6qfzFj5HbCtDY53FKxSK401YtZkUcYeMbBRZ31eX98JZ1ofErJsiikXtfX89hjwDKSQSvn0BHl6jEb5ShavzHTn7sVmnY7En3YZVk7lSSou95qarC72Dy3v8Azc+WDWckd9FvGdJ58mF+fmD8cKu174su+pdqFYSULH4s2m7Q3ZTIx+LxRuxO+gjUCCarYkXd8gSOnLBL/SSE8TGyN6NgL69B5knCjkOOSRAAaSAuw5b9CfPByPtAJNMMephQtjtdUTt76+QA2515wnZTzOcpWyjnsoO8pQaU73zIxTzOUERtwQrNW35V+f5YZ8vk5WBZIi90faC1fIjV7VVy/tcPEIg0DLmdCSKwdQQysaHspQAJJ68tzzwqlJV6EmPBkmrS2HfgGVgaBWi0mJ9wQBseW9DYjcHb+mErtTlJIptbSN3S7axvR5qCuwWz5bH37YN9kY9ILxqYw/tKptWYXZCk1dfuj05bYuzjW67KVJ0uQpI0v+8CaZdwKrc+7emk4T1LfudHh+Fy47TZyviXFw6LEg2EpkMhJ1M1FRseQAOIX1e1Q2Ffl/HDN2w7FGINmMsNUV+NF3MZ6keafw910oQT6elgjr09Rvzx0ccoyjcSm5NSakXIM24286B2HLVZs151v8MNHAeJhn0FiSXBDE0oFeIaTyN7avTlhREuoBQP4XXpWLGXl7t7K2RR03TUP7YTJDUibDxGiSt7D9wTisWpAX1eBg/MBSGJRuVNYYiqPQ+72F/McYjkCscsEP3mA3LHoDy6HbnQPrj2K0sLlvui3Hi8UVVod8QZ/wCyk/A36TifEHEPspPwN+k45EOpdzu5Oh9jnrYu9n+MtlZS4unUxn614QASp1F4iHABF7EYHXiKQY1Bixr/AGp5Mh4pGGljriIZNDSCIqROtyyM8TFyAzte3W9pspJ3/D0NDVExW+ZojmPLqPjgU+fSfKDJ5fLSNMVjLACPu1OXSnnTSuvW6r4yx+8RZ2xJ+zzOgs0DHwuKHvPI/A4Clx2Nzxbc0G+HwCbh0kf3oXJHnTWy/M6xhTebTR8sOPCply0ziU6FZWBsE049nYXv7Q+OFTtDl1DeHdW3BAoEemFqkUOHl4tWApRZLee4Hxxqrb7WL22/vi7lcwCndnQK8Wo7E0OQPW/LFcQg6aI6Ak3Q9/X5Yhvfc0cIrStJpl0GoA8tW/Xb+X98Wu0OVCkOAQCSByojaiNPT37/ACxo6qo0ndjv/nnivINToDy5V8efpg5uxuSFb2U2U86xY0+EVghnIIfGV1K+n2KtQQa5+RrbAjXQrDk9QyLos/R10k3v03+W3XDDwbKhADzb7xobHyGFzh6FpFF9b+WGbP8AExlkVEAaUjVZ5IDyPqx8v8Kj4bfEdD7P8Q1qQbXSLJLN8/aAGIuN5ATRtIJYQi82suNvMsxAxzPI8RZpLmkJDBkNchqUiwooden58iY4aXMaMHDrHKsjJvtX3vWjp92IpS0l/E3NbFjgXGggFRNIpokhTs6A6mU0dA06RQ6c/LB6LjKGVELlGCEjnR1E2DqPShyvr78JkfEu57wo+kk2oXkdVGvDQoA7eVnlvjLQPNNq0SuVNsEAJ03sBR/IfyxDKNuyVTpUdT7NZpZDICbY1qF76t7G3QWBt6dbwidtewRjk7zLKWjY2YxXgPp/tN8uh9DtalyMsMa5nLyL3saXJEBZKLR1D94UNxz2PpbZluMDN5YTRe2mzpe6nqPd64qOUsX/ANI/M5WWTnnlF7b0cRfJvEWEsckYqtTKVHusisSK/eCPcMyAg0bJ38NnyG+OpZjtQ8EgWXRpO41iiy3uNQ21DcdehrfF8ZvITVrhha+RAAP9cWP9vZOSIMjcdtrOWZF5VLChTcwdxsbGxNGvdePY6t/onDjv3RH/AJN/XHsO/wBvEUpyzSf6SlivxD7KT8DfpOLGK/EfspP+236Tjiw6l3PRMnQ+xznVjR8evGDjUGLD/AO1UWVy8kByQl70Msr98YzJG6lRGfq2IVQSRpYb0eYwtw5wRz97GpRdRITVrKqTsuqgXrbehdYxIMVZBgEaTVM6bx9e/hTMp6Bq6MAKPx8/64H8YkjnhSmAl02yAMSGWgT6KeY+WKP7P+OKjHLSn6uQFd/I+/qDv/xi3xDKNlMz4hYG+2wdGFbehH+bYVM47x+Dl9mKEsWrYDcf4cR+KM03KtuvP3f84aO0fZ94m7xVJRhqsb7EXzHPbAZcsCtEbfwPphKs6UcukhRQRqOkmtgDfz8zRA+HLFbiT+LY2ByPI+u3Te8XMrwqSw8ad7pIJVQWPMUSo3K+o2862xfz3ZGaKJHkSmcXo+8vUWByNdOmGKJYlnTVAL6U8lK1V1IFMaHU9eQxcWKOvZX41/PEAy5A9eWN0bSeVYRr0Gc+Rvw8jvFWq+7ilnZzJK7Hq5PwGyj5ADBbwtTCkcbhuQv1HL41/XA2XKNdaSTy2F9aF+V7b4FIepbUYGYUdL6e744vcP4gq6rF2hjG96dQIv4WTgbmspJEadSt3V9a58vhiMYHFSRJDI4u0HMtOHsMkJG1NehhR5j3jb2T02xayXGSivGDsxDbbcrrfmOeKHBcoJZUQtpU7X1Bo1/zi32vyixZloo1AWNQhKirIAJLGvE3iAJvpWImk56PYs+LLHDX7lzKcfcSiSzsAoJbUdut0LB93QYOdmHSHNCbLMBHJtLlyaqz7Ud7EC70ncdLGwRso1ffA+GLqg87GElh50cfPmTnqbqzpv7ReANPDqVbdBqQqD4lrdD6kbj1AHXHHlUjdSR6g1/DHUezPbJggimsqNg3UYk7SdncoyPmUdY23ahuHY+S8wxPUbczWIsEtD8NiTzUrRziLiM6bCVx8b/jj2LRyZ8sexc8OPoVVxWJ+h0LFfiP2Un/AG2/ScWaxX4iPqZP+236TjNw6l3PScnQ+xzTGDiTGpGNOYshbELriwwxGy4AKlkGxsRuDjpvZnPx8RgGXlIWdPs2PU89BN+ya+B+N81dcb5PNtC4kQ0R+Y8sIQ5sSyRo7R2bzdBsnmKjZDoQtWwN3G17bdDyrCl2p7Oy5aQnT4b8qr+38MOcIGdyXfyqO8joFh98WAA3u88Hez8IzGXMcm/djSG5mqND3bVgbaRQxXJ+HLnWz/hnF8rK0ba42IZKO2xHu88PPBu00OYYGYKsmnSW5I6now5A7bHp0NEqRXazgixMWVj7qwqZiHYMDR/pg9x0Mkoy0sP9uMtCg1CJ0fUQGFFGXnZIOx5CufP0tOGordbE1f8AEem2DEHF5GTuXOtOgNGq5EWDWKv+nqZdPKhq26jYVV7He7Hywk2uZbhPyKEljly64YuCNabj0B9BW3wsfPAueIDBHITEZaTzDrR/FsfyX/OtbJvEklyMdrwgjiJZdWojRsXFc7o2By6Vy9MK+oHltg7x6AMiSHdvZJ6kEWLPM1Rq+h9BgO0IrEmJVBCwyUqLkGY7kxspDPzArlXn59NsVpZX1trss7EsOuonn6HfF3IZUHRp8JH3uZ1efPbBDO8NXxySEuxOo9Ls787wqpbi5+LhFqEnv6Af6IavYg8iCN/z2+P8sSR5NzyvDZleFIttSlNNBKIIIIJbUDvYNUQcaztfhACjyA/y8TRVnDzf5Bp1Fc/2FuLLup2Y36f5vg5rYgajvyA6AemJIYhWNXOF0pblPNxc8q0srSY9iVI/zxnCjIypH//Z",
     "title": "MasterChef Recipes",
     "companyName": "CookIt",
     "description": "Access thousands of chef-curated recipes with step-by-step video guides.",
     "size": 60,
     "reviews": 23000,
-    "ratingAvg": 4.7,
+    "ratingAvg": 4.6,
     "downloads": 1200000,
     "ratings": [
-      { "name": "1 star", "count": 500 }, { "name": "2 star", "count": 1000 }, { "name": "3 star", "count": 2500 }, { "name": "4 star", "count": 6000 }, { "name": "5 star", "count": 13000 }
+      { "name": "1 star", "count": 800 }, { "name": "2 star", "count": 1200 }, { "name": "3 star", "count": 3000 }, { "name": "4 star", "count": 7000 }, { "name": "5 star", "count": 11000 }
     ]
   },
   {
@@ -259,24 +259,24 @@
     "description": "The fastest way to book a taxi or share a ride at affordable prices.",
     "size": 44,
     "reviews": 310000,
-    "ratingAvg": 4.0,
+    "ratingAvg": 3.8,
     "downloads": 20000000,
     "ratings": [
-      { "name": "1 star", "count": 40000 }, { "name": "2 star", "count": 30000 }, { "name": "3 star", "count": 50000 }, { "name": "4 star", "count": 70000 }, { "name": "5 star", "count": 120000 }
+      { "name": "1 star", "count": 55000 }, { "name": "2 star", "count": 45000 }, { "name": "3 star", "count": 60000 }, { "name": "4 star", "count": 80000 }, { "name": "5 star", "count": 70000 }
     ]
   },
   {
     "id": 20,
-    "image": "https://images.unsplash.com/photo-1532968961962-8a0cb3a2d4c5?q=80&w=1000&auto=format&fit=crop",
+    "image": "data:image/jpeg;base64,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",
     "title": "AstroDaily",
     "companyName": "StarGazer",
     "description": "Daily horoscopes, birth chart analysis, and compatibility reports.",
     "size": 22,
     "reviews": 15000,
-    "ratingAvg": 4.3,
+    "ratingAvg": 4.0,
     "downloads": 500000,
     "ratings": [
-      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 1000 }, { "name": "3 star", "count": 2500 }, { "name": "4 star", "count": 3500 }, { "name": "5 star", "count": 7000 }
+      { "name": "1 star", "count": 2000 }, { "name": "2 star", "count": 2000 }, { "name": "3 star", "count": 3500 }, { "name": "4 star", "count": 3500 }, { "name": "5 star", "count": 4000 }
     ]
   }
 ]

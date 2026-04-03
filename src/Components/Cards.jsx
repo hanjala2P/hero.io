@@ -1,16 +1,21 @@
 import React from 'react';
+import useCards from '../Hooks/hook';
+import Card from './Card';
 
 const Cards = () => {
+    const { card } =useCards();
+    const featuredCards =card.slice(0,8);
     return (
-        <div className='flex'>
-            <div className='flex flex-col bg-base-100 gap-3 p-4 border rounded-sm shadow-lg border-none'>
-                <img className='h-[316px] w-[316px] bg-amber-100 border-none rounded-sm ' src="" alt="" />
-                <p className='font-medium'>Forest: Focus for Productivity</p>
-                <div className='flex justify-between'>
-                    <button className='btn'>9M</button>
-                    <button className='btn'>5</button>
-                </div>
+        <div  className=''>
+            <div className=' grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-10 px-4'>
+                {
+                    featuredCards.map((item, index) => 
+                       <Card key={index} item={item}></Card>
+                    )
+                }
+               
             </div>
+                
         </div>
     );
 };

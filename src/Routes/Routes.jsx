@@ -4,7 +4,9 @@ import Nav from "../Components/Nav";
 import Footer from "../Components/Footer";
 import Home from "../Components/Home";
 import Installation from "../Pages/Installation";
-import AllApps from "../Pages/AllApps";
+import AllCards from "../Pages/AllCards";
+import Apps from "../Components/Apps";
+
 
 export const router = createBrowserRouter([
     {
@@ -24,14 +26,15 @@ export const router = createBrowserRouter([
                 Component:Footer
 
             },
-            {
+             {
                 path:'/apps',
-                Component:AllApps
+                Component:Apps
             },
             {
                 path:'/installation',
                 Component:Installation
-            }
+            },
+           
         ]
     }
 ])

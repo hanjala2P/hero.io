@@ -5,9 +5,9 @@ import logo from '../assets/logo.png';
 import { FaGithub } from 'react-icons/fa';
 const Nav = () => {
     const menuItems =<>
-    <li><NavLink to="/"><a href='/'>Home</a></NavLink></li>
-    <li><NavLink to="/apps"><a href='/apps'>Apps</a></NavLink></li>
-    <li><NavLink to="/installation"><a href='/installation'>Installation</a></NavLink></li>
+    <li><NavLink to="/">Home</NavLink></li>
+    <li><NavLink to="/apps">Apps</NavLink></li>
+    <li><NavLink to="/installation">Installation</NavLink></li>
     </>
     return (
         <div>
