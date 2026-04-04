@@ -1,8 +1,10 @@
 import React from 'react';
 import { FaStar, FaStarHalfAlt, FaRegStar,FaDownload } from "react-icons/fa";
+import { Link } from 'react-router';
 
 const Card = ({item}) => {
     return (
+       <Link to={`/appDetails/${item.id}`}>
         <div className='flex flex-col gap-2 p-4 bg-base-100 shadow-sm rounded-sm'>
             
             <img className='h-65 rounded-sm' src={item.image} alt="Image not found" />
@@ -15,6 +17,7 @@ const Card = ({item}) => {
             </div>
 
         </div>
+       </Link>
     );
 };
 

@@ -4,14 +4,18 @@ import Nav from "../Components/Nav";
 import Footer from "../Components/Footer";
 import Home from "../Components/Home";
 import Installation from "../Pages/Installation";
-import AllCards from "../Pages/AllCards";
 import Apps from "../Components/Apps";
+import AppDetails from "../Pages/AppDetails";
+import NotFound from "..//Error/NotFound";
+import Loader from "../Animation/Loader";
 
 
 export const router = createBrowserRouter([
     {
         path:'/',
         Component:Layout,
+        errorElement:NotFound,
+        hydrateFallbackElement:Loader,
         children:[
             {
                 index:true,
@@ -34,6 +38,10 @@ export const router = createBrowserRouter([
                 path:'/installation',
                 Component:Installation
             },
+            {
+                path:'/appDetails/:id',
+                Component:AppDetails
+            }
            
         ]
     }
