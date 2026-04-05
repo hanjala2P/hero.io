@@ -2,14 +2,18 @@ import React, { useState } from 'react';
 import useCards from '../Hooks/hook';
 import Card from './Card';
 import NotFound from '../Not found/ErrorPage'
+import Loader from '../Animation/Loader';
 
 const Apps = () => {
-    const { card } =useCards();
+    const { card ,loading} =useCards();
     const [search,setSearch]= useState('');
    
        const term = search?.trim()?.toLocaleLowerCase();
    
        const searchApps = term? card?.filter(card => card.title.toLocaleLowerCase().includes(term)):card;
+       if(loading){
+        return<Loader/>
+       }
     return (
         <div className='flex flex-col px-4 my-20 gap-8 '>
            <div className='flex flex-col text-center gap-4'>
@@ -28,14 +32,14 @@ const Apps = () => {
            </div>
           <div>
                 {searchApps.length > 0 ? (
-                    // যদি ডেটা থাকে তবে গ্রিড দেখাবে
+                
                     <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 px-4'>
                         {searchApps.map((item, index) => (
                             <Card key={item.id || index} item={item}></Card>
                         ))}
                     </div>
                 ) : (
-                    // যদি সার্চে কিছু না পায় তবে আপনার সেই কম্পোনেন্টটি দেখাবে
+        
                     <NotFound />
                 )}
             </div>

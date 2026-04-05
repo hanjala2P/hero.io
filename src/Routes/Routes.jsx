@@ -8,14 +8,13 @@ import Apps from "../Components/Apps";
 import AppDetails from "../Pages/AppDetails";
 import NotFound from "../Not found/NotFound";
 import Loader from "../Animation/Loader";
-import ErrorPage from "../Not found/ErrorPage";
 
 
 export const router = createBrowserRouter([
     {
         path:'/',
         Component:Layout,
-        errorElement:<h2>loading...</h2>,
+        errorElement:Loader,
         hydrateFallbackElement:Loader,
         children:[
             {
@@ -45,7 +44,7 @@ export const router = createBrowserRouter([
             },
             {
                 path:'/test',
-                Component:ErrorPage
+                Component:Loader
             },
             {
                 path:'*',
