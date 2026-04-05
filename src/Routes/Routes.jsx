@@ -42,10 +42,7 @@ export const router = createBrowserRouter([
                 path:'/appDetails/:id',
                 Component:AppDetails
             },
-            {
-                path:'/test',
-                Component:Loader
-            },
+         
             {
                 path:'/*',
                 Component:NotFound
