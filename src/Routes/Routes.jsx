@@ -47,7 +47,7 @@ export const router = createBrowserRouter([
                 Component:Loader
             },
             {
-                path:'*',
+                path:'/*',
                 Component:NotFound
             }
 
