@@ -1,18 +1,32 @@
-import React, { useState } from "react";
-import Info from "./info";
+import React, { useEffect, useState } from "react";
 import Ratings from "./Ratings";
 import { useParams } from "react-router";
 import useCards from "../Hooks/hook";
 import Loader from "../Animation/Loader";
 import { FaDownload, FaStar, FaThumbsUp } from "react-icons/fa";
 import formatNumber from "../Utils/formateNumbers";
+import { loadIstalledApps, UpdateInstalledApps } from "../Utils/LocalStorage";
 
 const AppDetails = () => {
+ const [isInstalled, setIsInstalled] = useState(false);
   const { id } = useParams();
-  const { card, loading, error } = useCards();
-  
+  const { card, loading} = useCards();
+
   // Safe find logic
   const singleCard = card?.find((p) => p.id === Number(id));
+
+  useEffect(() =>{
+    const installedApps = loadIstalledApps();
+    const alreadyInstalled = installedApps.some((app)=> app.id === Number(id));
+    if (alreadyInstalled){
+      setIsInstalled(true);
+    }
+  },[id])
+
+  const handleInstall =()=>{
+    UpdateInstalledApps(singleCard);
+    setIsInstalled(true);
+  }
 
   if (loading) return <Loader></Loader>;
   
@@ -68,9 +82,17 @@ const AppDetails = () => {
     </div>
 
     <div className="mt-2">
-      <button className="btn bg-gradient w-full md:w-fit px-8 py-3 font-bold text-white rounded-xl">
-        Install Now ({size} MB)
-      </button>
+      <button
+              onClick={handleInstall}
+              disabled={isInstalled}
+              className={`btn w-full md:w-fit px-12 py-3 rounded-xl font-bold text-white transition-all
+                ${isInstalled 
+                  ? "bg-gray-400 cursor-not-allowed opacity-90 shadow-none" 
+                  : "bg-gradient hover:scale-105 active:scale-95 shadow-lg"
+                }`}
+            >
+              {isInstalled ? "INSTALLED" : `Install Now ( ${size} MB )`}
+            </button>
     </div>
   </div>
 </section>
