@@ -6,15 +6,16 @@ import Home from "../Components/Home";
 import Installation from "../Pages/Installation";
 import Apps from "../Components/Apps";
 import AppDetails from "../Pages/AppDetails";
-import NotFound from "..//Error/NotFound";
+import NotFound from "../Not found/NotFound";
 import Loader from "../Animation/Loader";
+import ErrorPage from "../Not found/ErrorPage";
 
 
 export const router = createBrowserRouter([
     {
         path:'/',
         Component:Layout,
-        errorElement:NotFound,
+        errorElement:<h2>loading...</h2>,
         hydrateFallbackElement:Loader,
         children:[
             {
@@ -41,7 +42,16 @@ export const router = createBrowserRouter([
             {
                 path:'/appDetails/:id',
                 Component:AppDetails
+            },
+            {
+                path:'/test',
+                Component:ErrorPage
+            },
+            {
+                path:'*',
+                Component:NotFound
             }
+
            
         ]
     }

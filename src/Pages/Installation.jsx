@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { loadIstalledApps, removeFromIstalledApps } from "../Utils/LocalStorage"; // Uninstall এর জন্য ফাংশনটি আনুন
 import formatNumber from "../Utils/formateNumbers";
 import { FaDownload, FaStar } from "react-icons/fa";
+import toast from "react-hot-toast";
 
 const Installation = () => {
   const [installing, setInstalling] = useState(() => loadIstalledApps());
@@ -22,6 +23,7 @@ const Installation = () => {
     removeFromIstalledApps(id); 
     const remainingApps = loadIstalledApps(); 
     setInstalling(remainingApps); // 
+    toast.success("App uninstalled successfully!"); 
   };
 
   if (!installing.length) {

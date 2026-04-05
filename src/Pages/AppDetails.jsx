@@ -6,6 +6,7 @@ import Loader from "../Animation/Loader";
 import { FaDownload, FaStar, FaThumbsUp } from "react-icons/fa";
 import formatNumber from "../Utils/formateNumbers";
 import { loadIstalledApps, UpdateInstalledApps } from "../Utils/LocalStorage";
+import toast from "react-hot-toast";
 
 const AppDetails = () => {
  const [isInstalled, setIsInstalled] = useState(false);
@@ -26,6 +27,7 @@ const AppDetails = () => {
   const handleInstall =()=>{
     UpdateInstalledApps(singleCard);
     setIsInstalled(true);
+    toast.success("App installed successfully!");
   }
 
   if (loading) return <Loader></Loader>;
