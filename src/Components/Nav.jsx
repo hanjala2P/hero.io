@@ -59,7 +59,7 @@ const Nav = () => {
           <ul className="menu menu-horizontal px-1">{menuItems}</ul>
         </div>
         <div className="navbar-end flex items-center gap-4">
-          <a className="btn bg-gradient" href="https://github.com/hanjala2P">
+          <a className="btn bg-gradient" href="https://github.com/hanjala2P" target="_blank">
             <FaGithub className="text-lg" /> Contribute
           </a>
         </div>
