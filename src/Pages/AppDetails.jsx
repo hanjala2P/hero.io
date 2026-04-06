@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Ratings from "./Ratings";
 import { useParams } from "react-router";
 import useCards from "../Hooks/hook";
 import Loader from "../Animation/Loader";
@@ -7,6 +6,7 @@ import { FaDownload, FaStar, FaThumbsUp } from "react-icons/fa";
 import formatNumber from "../Utils/formateNumbers";
 import { loadIstalledApps, UpdateInstalledApps } from "../Utils/LocalStorage";
 import toast from "react-hot-toast";
+import Ratings from '../Pages/Ratings'
 
 const AppDetails = () => {
  const [isInstalled, setIsInstalled] = useState(false);
@@ -34,7 +34,7 @@ const AppDetails = () => {
   
   if (!singleCard) return <div className="text-center my-10">App Not Found!</div>;
 
-  const { title, image, description, size, reviews, ratingAvg, downloads, companyName } = singleCard || {};
+  const { title, image, description, size, reviews, ratingAvg, downloads, companyName ,ratings} = singleCard || {};
 
   return (
 
@@ -98,8 +98,14 @@ const AppDetails = () => {
     </div>
   </div>
 </section>
-
-      <Ratings />
+{/* rating section */}
+    <section>
+      <section>
+        <Ratings 
+          ratingsData={ratings}
+        />
+      </section>
+    </section>
 
       {/* Description Area */}
       <div className="flex flex-col gap-3 my-10 border-t pt-8">
